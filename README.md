@@ -15,5 +15,7 @@ Download here: https://chromedriver.chromium.org/downloads
 
 `pip install requirements.txt`
 
-4 - Run python script
+4 - Make a copy of the `credentials.yaml.tmpl` file, rename it to `credentials.yaml` and fill it with your credentials:
+
+5 - Run python script
 `python regybox_bot.py`
